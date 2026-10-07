@@ -1,0 +1,83 @@
+{
+  "title": "Web & JavaScript Basics",
+  "description": "Test your knowledge of the web platform and JavaScript fundamentals. Each question has four choices. You have one minute per question—unanswered questions cost one point.",
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "What does HTML stand for?",
+      "options": [
+        { "id": "a", "label": "HyperText Markup Language" },
+        { "id": "b", "label": "High Tech Modern Language" },
+        { "id": "c", "label": "Home Tool Markup Language" },
+        { "id": "d", "label": "Hyperlink Text Management Language" }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "prompt": "Which JavaScript keyword declares a block-scoped variable?",
+      "options": [
+        { "id": "a", "label": "var" },
+        { "id": "b", "label": "let" },
+        { "id": "c", "label": "function" },
+        { "id": "d", "label": "static" }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "prompt": "What is the result of `typeof null` in JavaScript?",
+      "options": [
+        { "id": "a", "label": "\"null\"" },
+        { "id": "b", "label": "\"undefined\"" },
+        { "id": "c", "label": "\"object\"" },
+        { "id": "d", "label": "\"number\"" }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "prompt": "Which HTTP method is typically used to fetch data without side effects?",
+      "options": [
+        { "id": "a", "label": "POST" },
+        { "id": "b", "label": "PUT" },
+        { "id": "c", "label": "DELETE" },
+        { "id": "d", "label": "GET" }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "prompt": "In CSS, which property controls the space between the border and the content?",
+      "options": [
+        { "id": "a", "label": "margin" },
+        { "id": "b", "label": "padding" },
+        { "id": "c", "label": "gap" },
+        { "id": "d", "label": "outline" }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "prompt": "What does the DOM represent?",
+      "options": [
+        { "id": "a", "label": "A database of user accounts" },
+        { "id": "b", "label": "A tree structure of the document in the browser" },
+        { "id": "c", "label": "A network protocol for APIs" },
+        { "id": "d", "label": "A JavaScript runtime engine" }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "prompt": "Which array method returns a new array with transformed elements?",
+      "options": [
+        { "id": "a", "label": "forEach" },
+        { "id": "b", "label": "push" },
+        { "id": "c", "label": "map" },
+        { "id": "d", "label": "sort" }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

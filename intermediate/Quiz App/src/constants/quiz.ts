@@ -1,0 +1,2 @@
+export const QUESTION_TIME_SECONDS = 60;
+export const FEEDBACK_ADVANCE_MS = 1200;
